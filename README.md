@@ -1,4 +1,6 @@
+
 # Small Company Network Lab | آزمایشگاه شبکه شرکت کوچک
+![Network Topology](<screenshots/Topology & Devices.png>)
 
 ## 🇬🇧 English
 
